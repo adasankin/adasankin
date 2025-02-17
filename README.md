@@ -30,7 +30,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/adasankin/adasankin/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/adasankin/adasankin/blob/output/github-contribution-grid-snake2.svg" alt="Snake animation" />
 
 ###
 
