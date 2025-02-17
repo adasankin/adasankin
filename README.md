@@ -68,6 +68,11 @@
 <h2 align="left">🌍 Let’s Connect!</h2>
 
 ###
+<div align="left" style="margin: 5px 20px;">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Random Dev Quote">
+</div>
+
+###
 
 <p align="left">I’m always open to collaboration and discussions. Feel free to reach out to me via:</p>
 
