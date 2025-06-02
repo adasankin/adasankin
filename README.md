@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="220" src="[https://media.licdn.com/dms/image/v2/D5616AQE46KWpJWSGUw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738496401054?e=1745452800&v=beta&t=DICT4U1QqQfIJ5NQ64kQOURWMlYJGoK9dKUlIMykWm8](https://media.licdn.com/dms/image/v2/D5616AQE46KWpJWSGUw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1738496401054?e=2147483647&v=beta&t=RBrIsymwWLdkghK54YypUjVmeihs393AwC8zYF_GzKg)"  />
+  <img height="220" src="https://media.licdn.com/dms/image/v2/D5616AQE46KWpJWSGUw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1738496401054?e=2147483647&v=beta&t=RBrIsymwWLdkghK54YypUjVmeihs393AwC8zYF_GzKg"  />
 </div>
 
 ###
